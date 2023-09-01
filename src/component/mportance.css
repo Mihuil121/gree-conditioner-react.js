@@ -1,0 +1,93 @@
+.oval2 {
+    background: #fff;
+    height: 100vh;
+    width: 25rem;
+    border-radius: 1rem;
+}
+
+.centre {
+    transform: translate(50%, 12%);
+    width: 12rem;
+
+}
+
+.img {
+    width: 12rem;
+}
+
+.time {
+    margin: 2rem 10px;
+    background-color: #D9D9D9;
+    display: flex;
+    align-items: center;
+
+}
+
+.text {
+    margin-left: 0.5rem;
+}
+
+.input {
+    align-items: center;
+    background-color: #9ad5ff;
+    border-radius: 5px;
+    width: 20rem;
+    cursor: pointer;
+}
+
+.input-text {
+    float: right;
+}
+
+.retractable {
+    background: #9ad5ff;
+    width: 20rem;
+    position: absolute;
+    top: 16.5rem;
+    height: 20vh;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.block {
+    border-radius: 20rem;
+    background-color: #9b9b9b;
+    width: 10rem;
+    height: 2rem;
+
+}
+
+.block-text {
+    text-align: center;
+}
+
+.button {
+    justify-content: center;
+    align-items: center;
+    width: 1rem;
+    margin: 0.5rem 10.5rem;
+
+}
+
+.on {
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+    cursor: pointer;
+}
+
+.text-button {
+    text-align: center;
+    margin: 0.15rem;
+    font-size: 2rem;
+
+}
+.your-time{
+    background-color: #D9D9D9;
+    border: 3px solid #000000;
+    border-radius: 14rem;
+    text-align: center;
+}
